@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2a7f0a69.chunk.css",
+    "main.js": "/static/js/main.b7c1b0ed.chunk.js",
+    "main.js.map": "/static/js/main.b7c1b0ed.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b83279d6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b83279d6.js.map",
+    "static/js/2.28582857.chunk.js": "/static/js/2.28582857.chunk.js",
+    "static/js/2.28582857.chunk.js.map": "/static/js/2.28582857.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.2a7f0a69.chunk.css.map": "/static/css/main.2a7f0a69.chunk.css.map",
+    "static/js/2.28582857.chunk.js.LICENSE.txt": "/static/js/2.28582857.chunk.js.LICENSE.txt",
+    "static/media/Github.e0df113a.svg": "/static/media/Github.e0df113a.svg",
+    "static/media/Linkedin.8861cb0e.svg": "/static/media/Linkedin.8861cb0e.svg",
+    "static/media/Logo.119937df.svg": "/static/media/Logo.119937df.svg",
+    "static/media/NLW2.fe292a5e.jpg": "/static/media/NLW2.fe292a5e.jpg",
+    "static/media/NLW3.a5ee5ada.jpg": "/static/media/NLW3.a5ee5ada.jpg",
+    "static/media/NLW4.7f2d470d.jpg": "/static/media/NLW4.7f2d470d.jpg",
+    "static/media/Perfil.e5b7c9a5.jpg": "/static/media/Perfil.e5b7c9a5.jpg",
+    "static/media/home.css": "/static/media/introBackground.3a167b04.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b83279d6.js",
+    "static/js/2.28582857.chunk.js",
+    "static/css/main.2a7f0a69.chunk.css",
+    "static/js/main.b7c1b0ed.chunk.js"
+  ]
+}
